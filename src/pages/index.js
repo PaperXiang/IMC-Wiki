@@ -35,7 +35,7 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className={clsx('button', styles.primaryButton)}
-              to="/intro">
+              to="/">
               开始探索 🚀
             </Link>
           </div>
