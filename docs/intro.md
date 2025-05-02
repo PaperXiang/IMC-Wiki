@@ -1,47 +1,45 @@
 ---
+title: 笨蛋开服教程
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+![](https://img.fastmirror.net/s/2024/11/02/672558bae4ec0.png)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# 笨蛋开服教程
 
-## Getting Started
+👋 欢迎来到笨蛋开服教程！
 
-Get started by **creating a new site**.
+笨蛋开服教程是一篇主要针对 **高版本 Java 版** 和 **基岩版**服务器的开服指南，而非**远古核心**。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+在开始前，请确认你拥有以下基础：
 
-### What you'll need
+- 具备**基础**的计算机操作技能 - 如解压、新建文件夹、打开文件、安装软件等；
+- 具备使用**搜索引擎**搜索关键词的能力；
+- 拥有一台能够**正常游玩 Minecraft** 的电脑。
+- 具有一定的**英语基础**
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 教程适合的群体
 
-## Generate a new site
+- 渴望学习如何开设服务器并运营良好的人；
+- 寻求解决如何解决服务器的常见问题的人；
+- 希望深化对服务器基础知识理解的人。
 
-Generate a new Docusaurus site using the **classic template**.
+## 教程不适合的群体
 
-The classic template will automatically be added to your project after you run the command:
+- 意图通过开设服务器进行欺诈谋利的人；
+- 忽视插件文档，频繁依赖他人解答的人；
+- 头脑简单、狂妄自大、懒惰无能的人。
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## 开始你的旅程
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+![:NitWikit](https://count.kjchmc.cn/get/@:NitWikit)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+如果你确定你符合条件，请点击一侧的目录开始阅读文档。
 
-## Start your site
+## 更多
 
-Run the development server:
+对于文档中的错误请进入 [GitHub](https://github.com/8aka-Team/NitWikit) 提出 Issue 或提交 Pr。
 
-```bash
-cd my-website
-npm run start
-```
+## 本节视频教程
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+[**点此前往B站**: 笨蛋级MC开服教程-第一集:服主的基本要求](https://www.bilibili.com/video/BV16W421R7tm/?share_source=copy_web&vd_source=53975e70eabfc1d6563221a670d4021a)
