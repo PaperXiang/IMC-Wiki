@@ -77,15 +77,15 @@ sidebar_position: 3
 
 #### 末地维度凭证
 
-**末地维度凭证配方书**:
-
-![末地维度凭证配方书](https://image.8aka.org/file/1746285985142_download.png)
-
 ![download.jpg](https://image.8aka.org/file/1746286102354_download.jpg)
 
 ![download.jpg](https://image.8aka.org/file/1746286133243_download.jpg)
 
 ![download.jpg](https://image.8aka.org/file/1746286140616_download.jpg)
+
+**末地维度凭证配方书**:
+
+![末地维度凭证配方书](https://image.8aka.org/file/1746285985142_download.png)
 
 #### 下届要塞维度凭证
 
