@@ -40,7 +40,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/PaperXiang/IMC-Wiki/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/PaperXiang/IMC-Wiki/tree/dev/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -51,7 +51,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/PaperXiang/IMC-Wiki/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/PaperXiang/IMC-Wiki/tree/dev/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -80,7 +80,6 @@ const config: Config = {
           position: 'left',
           label: '导览',
         },
-        {to: '/blog', label: '博客', position: 'left'},
         {
           href: 'https://github.com/PaperXiang/IMC-Wiki',
           label: 'GitHub',
