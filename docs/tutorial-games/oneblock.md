@@ -77,3 +77,15 @@ sidebar_position: 3
         
           ——该物品在铁砧修改为坐标后，丢进传送门后即可.进入该传送门可以传送到对应的位置.
 
+## 合成配方
+
+### 维度解锁凭证-地狱
+
+![维度解锁凭证-地狱](https://image.8aka.org/file/1746276824516_download.png)
+
+### 无畏核心、末影鞘
+
+![无畏核心、末影鞘](https://image.8aka.org/file/1746276840090_download.png)
+
+### 维度解锁凭证-末地
+![维度解锁凭证-末地](https://image.8aka.org/file/1746276841366_download.png)
