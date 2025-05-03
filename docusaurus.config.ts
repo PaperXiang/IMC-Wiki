@@ -81,6 +81,11 @@ const config: Config = {
           label: '导览',
         },
         {
+          href: 'https://lezi.imccd.icu',
+          label: '乐子百科',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/PaperXiang/IMC-Wiki',
           label: 'GitHub',
           position: 'right',
