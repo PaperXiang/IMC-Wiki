@@ -65,6 +65,34 @@ sidebar_position: 3
 1. 下界要塞—5000
 2. ???
 
+### 维度凭证
+
+    维度凭证，即解锁特定维度所需要的东西（例如末地，下界要塞等）。合成物品普遍比较难得，具有挑战性。
+
+    将它扔进传送门中，会出现粒子特效，并提示解锁新的维度。
+
+    合成表对应的成书会在某些维度的单方块中生成。
+
+    以下是凭证的合成方式：
+
+#### 末地维度凭证
+
+**末地维度凭证配方书**:
+
+![末地维度凭证配方书](https://image.8aka.org/file/1746285985142_download.png)
+
+![download.jpg](https://image.8aka.org/file/1746286102354_download.jpg)
+
+![download.jpg](https://image.8aka.org/file/1746286133243_download.jpg)
+
+![download.jpg](https://image.8aka.org/file/1746286140616_download.jpg)
+
+#### 下届要塞维度凭证
+
+**下届要塞维度凭证配方书（左侧为旧版，右侧为现版本）**:
+    
+![download.png](https://image.8aka.org/file/1746286236811_download.png)
+
 ### 韵律转化桌
 
 ![韵律转换桌的gui](https://image.8aka.org/file/1746276373658_download.png)
@@ -77,15 +105,5 @@ sidebar_position: 3
         
           ——该物品在铁砧修改为坐标后，丢进传送门后即可.进入该传送门可以传送到对应的位置.
 
-## 合成配方
 
-### 维度解锁凭证-地狱
 
-![维度解锁凭证-地狱](https://image.8aka.org/file/1746276824516_download.png)
-
-### 无畏核心、末影鞘
-
-![无畏核心、末影鞘](https://image.8aka.org/file/1746276840090_download.png)
-
-### 维度解锁凭证-末地
-![维度解锁凭证-末地](https://image.8aka.org/file/1746276841366_download.png)
