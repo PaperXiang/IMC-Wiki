@@ -63,6 +63,18 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'wss',
+        path: 'docs-wss',
+        routeBasePath: 'wss',
+        sidebarPath: './sidebars.ts',
+        // ... other options
+      },
+    ],
+  ],
 
   themeConfig: {
     // Replace with your project's social card
@@ -75,10 +87,17 @@ const config: Config = {
       },
       items: [
         {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'IMC主服',
+        },
+        {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: '导览',
+          label: 'wss服务器',
+          docsPluginId: 'wss'
         },
         {
           href: 'https://lezi.imccd.icu',
