@@ -1,5 +1,6 @@
 ---
 title: '家园介绍'
+description: '家园服介绍'
 sidebar_label: '家园'
 sidebar_position: 1
 ---

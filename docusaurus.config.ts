@@ -62,14 +62,24 @@ const config: Config = {
         },
       } satisfies Preset.Options,
     ],
-  ],
+  ],      
   plugins: [
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'wss',
+        id: 'docs-wss',
         path: 'docs-wss',
         routeBasePath: 'wss',
+        sidebarPath: './sidebars.ts',
+        // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs-sicilia',
+        path: 'docs-sicilia',
+        routeBasePath: 'sicilia',
         sidebarPath: './sidebars.ts',
         // ... other options
       },
@@ -97,7 +107,14 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'wss服务器',
-          docsPluginId: 'wss'
+          docsPluginId: 'docs-wss'
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: '西西里',
+          docsPluginId: 'docs-sicilia'
         },
         {
           href: 'https://lezi.imccd.icu',

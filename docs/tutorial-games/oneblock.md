@@ -1,5 +1,6 @@
 ---
 title: '单方块简介'
+description: '单方块服务器介绍'
 sidebar_label: '单方块'
 sidebar_position: 3
 ---

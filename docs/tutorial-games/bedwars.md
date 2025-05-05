@@ -1,5 +1,6 @@
 ---
 title: '起床战争介绍'
+description: '床上大战介绍'
 sidebar_label: '起床战争'
 sidebar_position: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: '枪战大厅介绍'
+description: '枪战大厅介绍'
 sidebar_label: '枪战大厅'
 sidebar_position: 1
 ---
